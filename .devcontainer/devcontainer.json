@@ -14,5 +14,6 @@
   "remoteUser": "node",
   "features": {
     "git": "latest"
-  }
+  },
+  "runArgs": ["--env-file", "/Oxygen.env"]
 }
